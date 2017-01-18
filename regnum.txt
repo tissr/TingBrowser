@@ -3,7 +3,7 @@ regnum2017:00
 regnum2016:00
 regnumtest:03
 
-sscount:1,2,3,0,0,0,0,0,0,0
+sscount:1,2,3,4,5,6,7,8,0,0
 
 
 tingss20170118:0
