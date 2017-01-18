@@ -6,7 +6,8 @@ regnumtest:03
 sscount:1,2,3,0,0,0,0,0,0,0
 
 
-tingss20161209:0
+tingss20170118:0
+tingss20161209:1
 tingss20161208:1
 tingss20161125:1
 tingss20161122:1
